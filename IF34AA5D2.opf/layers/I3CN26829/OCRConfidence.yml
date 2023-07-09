@@ -1,0 +1,95 @@
+id: 03c27986576e46b9973f4fd9da665245
+annotation_type: OCRConfidence
+revision: '00001'
+annotations:
+  2c22628e4db7457ab7e6be137f827aa8:
+    span:
+      start: 89
+      end: 90
+    confidence: 0.78905296
+  97a088e9fecd438093853f0b2cc68749:
+    span:
+      start: 261
+      end: 263
+    confidence: 0.72370994
+  343c521e8c9e44a8a163ddfbf4a744d5:
+    span:
+      start: 306
+      end: 307
+    confidence: 0.4791261
+  a02973eccdd1464b850a8979679d8cd1:
+    span:
+      start: 453
+      end: 455
+    confidence: 0.7027008
+  fc1c8eaef645493a89c7113cddb012be:
+    span:
+      start: 469
+      end: 471
+    confidence: 0.68312025
+  85074825d2334766b22d591396bbf060:
+    span:
+      start: 639
+      end: 640
+    confidence: 0.37493443
+  820300073fc74f95afb45e1ec330febd:
+    span:
+      start: 660
+      end: 661
+    confidence: 0.67404395
+  cec646ba7695432fbe7cfb913f59960e:
+    span:
+      start: 677
+      end: 678
+    confidence: 0.7058843
+  d9b03ac14ff94892a05e74735c842317:
+    span:
+      start: 883
+      end: 884
+    confidence: 0.74544585
+  04c163647e474787817792a95de21de7:
+    span:
+      start: 1528
+      end: 1531
+    confidence: 0.7815533
+  1842d91af8134a87ae885e37020b06fb:
+    span:
+      start: 17387
+      end: 17392
+    confidence: 0.7083017340000001
+  092eaf32d7ca41559653c0634901e402:
+    span:
+      start: 32002
+      end: 32003
+    confidence: 0.6282787
+  424460a6dbbe4e12bfd9db08d8b3b374:
+    span:
+      start: 32100
+      end: 32101
+    confidence: 0.48253617
+  fa743d73fbc24df1897b48858f896ab6:
+    span:
+      start: 77612
+      end: 77615
+    confidence: 0.7493378
+  ca76776e43304c55ab1c80c17480d80e:
+    span:
+      start: 109068
+      end: 109073
+    confidence: 0.7215687
+  92a8610f73ba46ac9ad4e2e53192e82f:
+    span:
+      start: 136456
+      end: 136458
+    confidence: 0.7175651
+  44d07a955f634c3092ad90a71bfc0e84:
+    span:
+      start: 142705
+      end: 142708
+    confidence: 0.79164183
+  7195919d15534d40aa380d76660f5d1f:
+    span:
+      start: 150666
+      end: 150671
+    confidence: 0.6986873
+confidence_threshold: 0.8
